@@ -89,6 +89,9 @@
 
 ## 2. 不同方法与框架实现分类
 
+> 除了自己写的，剩余皆来自[此网站](https://www.kesci.com/home/dataset/5bfe734a954d6e0010683839/document)
+
 * [【刷榜】训练集 99.9799%，测试集 99.3467%](pytorch-high_acc.ipynb)
+* 
 
 
