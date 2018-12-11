@@ -93,5 +93,6 @@
 
 * [【刷榜】训练集 99.9799%，测试集 99.3467%](pytorch-high_acc.ipynb)
 * [【官方示例】手写藏文MNIST数据集的图像分类](【官方示例】手写藏文MNIST数据集的图像分类.ipynb)
+* [[深度思考]TibetanMNIST藏文手写数字数据集识别]([深度思考]TibetanMNIST藏文手写数字数据集识别.ipynb)
 
 
