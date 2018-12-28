@@ -97,13 +97,13 @@
 
 > 除了自己写的，剩余皆来自[此网站](https://www.kesci.com/home/dataset/5bfe734a954d6e0010683839/document)
 
-* [【官方示例】手写藏文MNIST数据集的图像分类](【官方示例】手写藏文MNIST数据集的图像分类.ipynb)
-* [【刷榜】训练集 99.9799%，测试集 99.3467%](【刷榜】训练集%2099.9799%，测试集%2099.3467%.ipynb)
-* [[深度思考]TibetanMNIST藏文手写数字数据集识别]([深度思考]TibetanMNIST藏文手写数字数据集识别.ipynb)
-* [准确率99.3%——Keras进行藏文手写数字识别](准确率99.3%——Keras进行藏文手写数字识别.ipynb)
-* [【牛刀小试】2018快过去了，你会写藏文了吗](【牛刀小试】2018快过去了，你会写藏文了吗.ipynb)
-* [不要怂，就是GAN！AI学藏文](不要怂，就是GAN！AI学藏文.ipynb)
-* [简单的BP神经网络](简单的BP神经网络.ipynb)
+* [【官方示例】手写藏文MNIST数据集的图像分类](https://github.com/bat67/TibetanMNIST/blob/master/【官方示例】手写藏文MNIST数据集的图像分类.ipynb)
+* [【刷榜】训练集 99.9799%，测试集 99.3467%](https://github.com/bat67/TibetanMNIST/blob/master/【刷榜】训练集%2099.9799%25%EF%BC%8C测试集%2099.3467%25.ipynb)
+* [[深度思考]TibetanMNIST藏文手写数字数据集识别](https://github.com/bat67/TibetanMNIST/blob/master/%5B深度思考%5DTibetanMNIST藏文手写数字数据集识别.ipynb)
+* [准确率99.3%——Keras进行藏文手写数字识别](https://github.com/bat67/TibetanMNIST/blob/master/准确率99.3%25——Keras进行藏文手写数字识别.ipynb)
+* [【牛刀小试】2018快过去了，你会写藏文了吗](https://github.com/bat67/TibetanMNIST/blob/master/【牛刀小试】2018快过去了%EF%BC%8C你会写藏文了吗.ipynb)
+* [不要怂，就是GAN！AI学藏文](https://github.com/bat67/TibetanMNIST/blob/master/不要怂%EF%BC%8C就是GAN%EF%BC%81AI学藏文.ipynb)
+* [简单的BP神经网络](https://github.com/bat67/TibetanMNIST/blob/master/简单的BP神经网络.ipynb)
 
 
 
