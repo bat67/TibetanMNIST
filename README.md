@@ -95,15 +95,17 @@
 
 ## 2. 不同方法与框架实现各种脑洞
 
-> 除了自己写的，剩余皆来自[此网站](https://www.kesci.com/home/dataset/5bfe734a954d6e0010683839/document)
+> 除了自己写的，剩余皆来自[此网站](https://www.kesci.com/home/dataset/5bfe734a954d6e0010683839/document)，若下面链接打不开可自行下载根目录中文件本地打开。
 
-* [【官方示例】手写藏文MNIST数据集的图像分类](https://github.com/bat67/TibetanMNIST/blob/master/【官方示例】手写藏文MNIST数据集的图像分类.ipynb)
 * [【刷榜】训练集 99.9799%，测试集 99.3467%](https://github.com/bat67/TibetanMNIST/blob/master/【刷榜】训练集%2099.9799%25%EF%BC%8C测试集%2099.3467%25.ipynb)
+* [【官方示例】手写藏文MNIST数据集的图像分类](https://github.com/bat67/TibetanMNIST/blob/master/【官方示例】手写藏文MNIST数据集的图像分类.ipynb)
 * [[深度思考]TibetanMNIST藏文手写数字数据集识别](https://github.com/bat67/TibetanMNIST/blob/master/%5B深度思考%5DTibetanMNIST藏文手写数字数据集识别.ipynb)
 * [准确率99.3%——Keras进行藏文手写数字识别](https://github.com/bat67/TibetanMNIST/blob/master/准确率99.3%25——Keras进行藏文手写数字识别.ipynb)
 * [【牛刀小试】2018快过去了，你会写藏文了吗](https://github.com/bat67/TibetanMNIST/blob/master/【牛刀小试】2018快过去了%EF%BC%8C你会写藏文了吗.ipynb)
 * [不要怂，就是GAN！AI学藏文](https://github.com/bat67/TibetanMNIST/blob/master/不要怂%EF%BC%8C就是GAN%EF%BC%81AI学藏文.ipynb)
 * [简单的BP神经网络](https://github.com/bat67/TibetanMNIST/blob/master/简单的BP神经网络.ipynb)
+* [利用Keras识别TibetanMNIST数据集](https://github.com/bat67/TibetanMNIST/blob/master/利用Keras识别TibetanMNIST数据集.ipynb)
+* [自定义图片数据集识别(使用PaddlePaddle)](https://github.com/bat67/TibetanMNIST/blob/master/额外篇一%20%20自定义图片数据集识别.ipynb)
 
 
 
